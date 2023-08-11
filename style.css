@@ -180,6 +180,7 @@ footer p {
   justify-content: center;
   color: whitesmoke;
   margin-bottom: 15px;
+  gap: 1rem;
 }
 .copy {
   text-align: center;
@@ -368,6 +369,7 @@ justify-content: space-between;
     /* margin-top: 3rem; */
     
     padding: 5rem;
+    
   }
   footer div img {
     width: 15%;
@@ -382,7 +384,7 @@ justify-content: space-between;
   }
   footer ul li {
     padding: 7px;
-    display: flex;
+    /* display: flex; */
   }
   footer p {
     margin-top: 2rem;
